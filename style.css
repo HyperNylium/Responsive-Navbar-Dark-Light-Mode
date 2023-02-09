@@ -27,7 +27,7 @@
 }
 
 .DarkMode{
-  --color-scheme: light;
+  --color-scheme: dark;
   --Blue: #4285F4;
   --Red: #DB4437;
   --Green: #0F9D58;
